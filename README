@@ -4,5 +4,5 @@ ever since high school French.
 It's a fairly usable shell. Most of the basic features are present and working, there's
 also a few extras.
 
-Should be very easy to run, it's only a single file, no install of anything but Perl
-required. Just launch straight-away.
+Should be very easy to run, it's only a single file, but requires the GNU Readline
+library. After that's set up, just launch straight-away.
